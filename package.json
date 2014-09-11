@@ -1,0 +1,21 @@
+{
+  "name": "delevts-salesforce",
+  "version": "0.1.0",
+  "description": "Delevts Salesforce plugin.",
+  "author": "teloo",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/teloo/delevts-salesforce/blob/master/LICENSE"
+    }
+  ],
+  "repository": "teloo/delevts-salesforce",
+  "main": "lib",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "underscore": "1.7.0",
+    "jsforce": "1.2.0"
+  }
+}
