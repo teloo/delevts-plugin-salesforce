@@ -12,7 +12,7 @@
   "repository": "teloo/delevts-plugin-salesforce",
   "main": "lib",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.10.31"
   },
   "dependencies": {
     "underscore": "1.7.0",
