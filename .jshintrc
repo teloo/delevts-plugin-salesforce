@@ -6,5 +6,10 @@
   "undef": true,
 
   "devel": true,
-  "node": true
+  "node": true,
+  "globals": {
+    "describe": true,
+    "it": true,
+    "beforeEach": true
+  }
 }
