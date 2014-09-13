@@ -1,7 +1,5 @@
-Delevts Salesforce plugin
+Delevts Salesforce plugin [![Build Status](https://travis-ci.org/teloo/delevts-plugin-salesforce.svg?branch=master)](https://travis-ci.org/teloo/delevts-plugin-salesforce)
 ==================
-
-[![Build Status](https://travis-ci.org/teloo/delevts-plugin-salesforce.svg?branch=master)](https://travis-ci.org/teloo/delevts-plugin-salesforce)
 
 ## Installation
 
