@@ -1,7 +1,7 @@
 Delevts Salesforce plugin
 ==================
 
-[Delevts](https://github.com/teloo/delevts) deletes all events in the calendar application.
+[![Build Status](https://travis-ci.org/teloo/delevts-plugin-salesforce.svg?branch=master)](https://travis-ci.org/teloo/delevts-plugin-salesforce)
 
 ## Installation
 
