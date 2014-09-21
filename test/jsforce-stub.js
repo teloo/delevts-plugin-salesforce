@@ -25,10 +25,10 @@ var sobject = function(objectType) {
 };
 
 var find = function(conditions, fields) {
-  if (conditions !== null) {
-    throw new Error('StubError: expected conditions to null');
+  if (!conditions || !_.has(conditions, 'OwnerId')) {
+    throw new Error('StubError: conditions.OwnerId is needed');
   }
-  if (!_.every(['Id', 'IsDeleted', 'IsRecurrence'], function(field) {
+  if (!_.every(['Id', 'IsRecurrence'], function(field) {
     return _.contains(fields, field);
   }) && fields.length !== 3) {
     throw new Error('StubError: expected fields to ["Id", "IsDeleted", "IsRecurrence"]');
