@@ -1,10 +1,6 @@
 Delevts Salesforce plugin [![Build Status](https://travis-ci.org/teloo/delevts-plugin-salesforce.svg?branch=master)](https://travis-ci.org/teloo/delevts-plugin-salesforce)
 ==================
 
-## Known issue
-
-Now, this plugin deletes all events in the ORGANIZATION.
-
 ## Installation
 
 This plugin has been installed in [delevts](https://github.com/teloo/delevts).
